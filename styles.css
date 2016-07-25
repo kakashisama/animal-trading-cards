@@ -10,7 +10,7 @@ h3{
 
 .cardimage {
 	max-width: 100%;
-	padding-bottom: 10px;
+	padding-bottom: 20px;
 }
 
 .liststyle{
@@ -38,5 +38,5 @@ span{
 }
 
 .italictext {
-	font-style: oblique;
+	font-style: italic;
 }
