@@ -1,15 +1,20 @@
+body{
+	width : 326px;
+}
+
 h3{
  font-weight: bolder;
 }
 
 .card {
- width: 419px;
- /*height: 641px;*/
- font-style: normal;
+	max-width: 100%;
+	margin:0;
+    font-style: normal;
 }
 
 .cardimage {
 	max-width: 100%;
+	height: auto;
 	padding-bottom: 20px;
 }
 
@@ -31,6 +36,7 @@ span{
 }
 
 .borderwithoutshadow {
+	max-width: 100%;
 	border-color: silver;
 	border-width: 1px;
 	border-style: solid;
